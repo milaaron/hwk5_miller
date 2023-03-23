@@ -1,0 +1,8 @@
+---
+title: "hw5_miller"
+format:
+  html:
+    embed-resources: true
+---
+
+boo!
